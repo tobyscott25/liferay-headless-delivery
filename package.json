@@ -17,7 +17,7 @@
     "cms",
     "typescript"
   ],
-  "author": "Toby Scott",
+  "author": "Toby Scott <hi@tobyscott.dev>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/tobyscott25/liferay-headless-delivery/issues"
