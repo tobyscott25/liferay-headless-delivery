@@ -1,0 +1,30 @@
+{
+  "name": "liferay-headless-delivery",
+  "version": "0.1.0",
+  "description": "Types and functions for Liferay's headless delivery endpoints",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobyscott25/liferay-headless-delivery.git"
+  },
+  "keywords": [
+    "liferay",
+    "headless",
+    "platform",
+    "cms",
+    "typescript"
+  ],
+  "author": "Toby Scott <hi@tobyscott.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tobyscott25/liferay-headless-delivery/issues"
+  },
+  "homepage": "https://github.com/tobyscott25/liferay-headless-delivery#readme",
+  "devDependencies": {
+    "@types/node": "^18.16.2",
+    "typescript": "^5.0.4"
+  }
+}
